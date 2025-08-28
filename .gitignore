@@ -1,0 +1,20 @@
+# ROS 2 build files
+/build/
+/install/
+/log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Docker files if you don’t want them tracked
+Dockerfile
+entrypoint.sh
+start_ros.sh
+

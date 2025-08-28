@@ -1,0 +1,35 @@
+[0.512s] Invoking command in '/root/src/my_ros2_pkg': PYTHONPATH=/root/src/my_ros2_pkg/build/my_ros2_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/src/my_ros2_pkg/install/my_ros2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_ros2_pkg build --build-base /root/src/my_ros2_pkg/build/my_ros2_pkg/build install --record /root/src/my_ros2_pkg/build/my_ros2_pkg/install.log --single-version-externally-managed install_data
+[0.696s] running egg_info
+[0.696s] creating build/my_ros2_pkg/my_ros2_pkg.egg-info
+[0.697s] writing build/my_ros2_pkg/my_ros2_pkg.egg-info/PKG-INFO
+[0.697s] writing dependency_links to build/my_ros2_pkg/my_ros2_pkg.egg-info/dependency_links.txt
+[0.697s] writing entry points to build/my_ros2_pkg/my_ros2_pkg.egg-info/entry_points.txt
+[0.697s] writing requirements to build/my_ros2_pkg/my_ros2_pkg.egg-info/requires.txt
+[0.698s] writing top-level names to build/my_ros2_pkg/my_ros2_pkg.egg-info/top_level.txt
+[0.698s] writing manifest file 'build/my_ros2_pkg/my_ros2_pkg.egg-info/SOURCES.txt'
+[0.698s] reading manifest file 'build/my_ros2_pkg/my_ros2_pkg.egg-info/SOURCES.txt'
+[0.699s] writing manifest file 'build/my_ros2_pkg/my_ros2_pkg.egg-info/SOURCES.txt'
+[0.699s] running build
+[0.700s] running build_py
+[0.700s] creating /root/src/my_ros2_pkg/build/my_ros2_pkg/build
+[0.700s] creating /root/src/my_ros2_pkg/build/my_ros2_pkg/build/lib
+[0.700s] creating /root/src/my_ros2_pkg/build/my_ros2_pkg/build/lib/my_ros2_pkg
+[0.700s] copying my_ros2_pkg/__init__.py -> /root/src/my_ros2_pkg/build/my_ros2_pkg/build/lib/my_ros2_pkg
+[0.701s] running install
+[0.701s] running install_lib
+[0.701s] creating /root/src/my_ros2_pkg/install/my_ros2_pkg/lib/python3.10/site-packages/my_ros2_pkg
+[0.701s] copying /root/src/my_ros2_pkg/build/my_ros2_pkg/build/lib/my_ros2_pkg/__init__.py -> /root/src/my_ros2_pkg/install/my_ros2_pkg/lib/python3.10/site-packages/my_ros2_pkg
+[0.702s] byte-compiling /root/src/my_ros2_pkg/install/my_ros2_pkg/lib/python3.10/site-packages/my_ros2_pkg/__init__.py to __init__.cpython-310.pyc
+[0.702s] running install_data
+[0.702s] creating /root/src/my_ros2_pkg/install/my_ros2_pkg/share/ament_index
+[0.702s] creating /root/src/my_ros2_pkg/install/my_ros2_pkg/share/ament_index/resource_index
+[0.702s] creating /root/src/my_ros2_pkg/install/my_ros2_pkg/share/ament_index/resource_index/packages
+[0.703s] copying resource/my_ros2_pkg -> /root/src/my_ros2_pkg/install/my_ros2_pkg/share/ament_index/resource_index/packages
+[0.703s] copying package.xml -> /root/src/my_ros2_pkg/install/my_ros2_pkg/share/my_ros2_pkg
+[0.703s] running install_egg_info
+[0.704s] Copying build/my_ros2_pkg/my_ros2_pkg.egg-info to /root/src/my_ros2_pkg/install/my_ros2_pkg/lib/python3.10/site-packages/my_ros2_pkg-0.0.0-py3.10.egg-info
+[0.705s] running install_scripts
+[0.722s] Installing listener script to /root/src/my_ros2_pkg/install/my_ros2_pkg/lib/my_ros2_pkg
+[0.722s] Installing talker script to /root/src/my_ros2_pkg/install/my_ros2_pkg/lib/my_ros2_pkg
+[0.722s] writing list of installed files to '/root/src/my_ros2_pkg/build/my_ros2_pkg/install.log'
+[0.747s] Invoked command in '/root/src/my_ros2_pkg' returned '0': PYTHONPATH=/root/src/my_ros2_pkg/build/my_ros2_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/src/my_ros2_pkg/install/my_ros2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_ros2_pkg build --build-base /root/src/my_ros2_pkg/build/my_ros2_pkg/build install --record /root/src/my_ros2_pkg/build/my_ros2_pkg/install.log --single-version-externally-managed install_data
