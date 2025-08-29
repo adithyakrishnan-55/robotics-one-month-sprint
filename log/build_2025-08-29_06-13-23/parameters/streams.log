@@ -1,0 +1,34 @@
+[0.481s] Invoking command in '/ros2_ws/src/parameters': PYTHONPATH=/ros2_ws/src/parameters/build/parameters/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/parameters build --build-base /ros2_ws/src/parameters/build/parameters/build install --record /ros2_ws/src/parameters/build/parameters/install.log --single-version-externally-managed install_data
+[0.662s] running egg_info
+[0.663s] creating build/parameters/parameters.egg-info
+[0.663s] writing build/parameters/parameters.egg-info/PKG-INFO
+[0.663s] writing dependency_links to build/parameters/parameters.egg-info/dependency_links.txt
+[0.663s] writing entry points to build/parameters/parameters.egg-info/entry_points.txt
+[0.663s] writing requirements to build/parameters/parameters.egg-info/requires.txt
+[0.663s] writing top-level names to build/parameters/parameters.egg-info/top_level.txt
+[0.663s] writing manifest file 'build/parameters/parameters.egg-info/SOURCES.txt'
+[0.665s] reading manifest file 'build/parameters/parameters.egg-info/SOURCES.txt'
+[0.665s] writing manifest file 'build/parameters/parameters.egg-info/SOURCES.txt'
+[0.665s] running build
+[0.665s] running build_py
+[0.666s] creating /ros2_ws/src/parameters/build/parameters/build
+[0.666s] creating /ros2_ws/src/parameters/build/parameters/build/lib
+[0.666s] creating /ros2_ws/src/parameters/build/parameters/build/lib/parameters
+[0.666s] copying parameters/__init__.py -> /ros2_ws/src/parameters/build/parameters/build/lib/parameters
+[0.666s] running install
+[0.666s] running install_lib
+[0.667s] creating /ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages/parameters
+[0.667s] copying /ros2_ws/src/parameters/build/parameters/build/lib/parameters/__init__.py -> /ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages/parameters
+[0.667s] byte-compiling /ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages/parameters/__init__.py to __init__.cpython-310.pyc
+[0.668s] running install_data
+[0.668s] creating /ros2_ws/src/parameters/install/parameters/share/ament_index
+[0.668s] creating /ros2_ws/src/parameters/install/parameters/share/ament_index/resource_index
+[0.668s] creating /ros2_ws/src/parameters/install/parameters/share/ament_index/resource_index/packages
+[0.668s] copying resource/parameters -> /ros2_ws/src/parameters/install/parameters/share/ament_index/resource_index/packages
+[0.668s] copying package.xml -> /ros2_ws/src/parameters/install/parameters/share/parameters
+[0.669s] running install_egg_info
+[0.670s] Copying build/parameters/parameters.egg-info to /ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages/parameters-0.0.0-py3.10.egg-info
+[0.670s] running install_scripts
+[0.688s] Installing turtle_param_node script to /ros2_ws/src/parameters/install/parameters/lib/parameters
+[0.688s] writing list of installed files to '/ros2_ws/src/parameters/build/parameters/install.log'
+[0.713s] Invoked command in '/ros2_ws/src/parameters' returned '0': PYTHONPATH=/ros2_ws/src/parameters/build/parameters/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/parameters build --build-base /ros2_ws/src/parameters/build/parameters/build install --record /ros2_ws/src/parameters/build/parameters/install.log --single-version-externally-managed install_data

@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+parameters/__init__.py
+parameters.egg-info/PKG-INFO
+parameters.egg-info/SOURCES.txt
+parameters.egg-info/dependency_links.txt
+parameters.egg-info/entry_points.txt
+parameters.egg-info/requires.txt
+parameters.egg-info/top_level.txt
+parameters.egg-info/zip-safe
+resource/parameters

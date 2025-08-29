@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing parameters.egg-info/PKG-INFO
+writing dependency_links to parameters.egg-info/dependency_links.txt
+writing entry points to parameters.egg-info/entry_points.txt
+writing requirements to parameters.egg-info/requires.txt
+writing top-level names to parameters.egg-info/top_level.txt
+reading manifest file 'parameters.egg-info/SOURCES.txt'
+writing manifest file 'parameters.egg-info/SOURCES.txt'
+running build_ext
+Creating /ros2_ws/src/parameters/install/parameters/lib/python3.10/site-packages/parameters.egg-link (link to .)
+Installing turtle_param_node script to /ros2_ws/src/parameters/install/parameters/lib/parameters
+
+Installed /ros2_ws/src/parameters/build/parameters
+running symlink_data
+symbolically linking /ros2_ws/src/parameters/build/parameters/resource/parameters -> /ros2_ws/src/parameters/install/parameters/share/ament_index/resource_index/packages
+symbolically linking /ros2_ws/src/parameters/build/parameters/package.xml -> /ros2_ws/src/parameters/install/parameters/share/parameters

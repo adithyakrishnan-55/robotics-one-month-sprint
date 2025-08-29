@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_param_node = parameters.turtle_param_node:main
+
