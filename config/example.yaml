@@ -1,0 +1,6 @@
+my_node:
+  ros__parameters:
+    param_string: "hello ROS2"
+    param_int: 42
+    param_double: 3.14
+    param_bool: true
