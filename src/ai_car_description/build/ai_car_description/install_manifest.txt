@@ -1,0 +1,15 @@
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ament_index/resource_index/package_run_dependencies/ai_car_description
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ament_index/resource_index/parent_prefix_path/ai_car_description
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/environment/ament_prefix_path.sh
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/environment/ament_prefix_path.dsv
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/environment/path.sh
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/environment/path.dsv
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/local_setup.bash
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/local_setup.sh
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/local_setup.zsh
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/local_setup.dsv
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/package.dsv
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ament_index/resource_index/packages/ai_car_description
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/cmake/ai_car_descriptionConfig.cmake
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/cmake/ai_car_descriptionConfig-version.cmake
+/ai_car_ws/src/ai_car_description/install/ai_car_description/share/ai_car_description/package.xml

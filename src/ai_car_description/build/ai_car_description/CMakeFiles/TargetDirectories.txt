@@ -1,0 +1,9 @@
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/uninstall.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/ai_car_description_uninstall.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/test.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/edit_cache.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/rebuild_cache.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/list_install_components.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/install.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/install/local.dir
+/ai_car_ws/src/ai_car_description/build/ai_car_description/CMakeFiles/install/strip.dir

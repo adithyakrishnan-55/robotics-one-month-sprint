@@ -1,0 +1,6 @@
+Invoking command in '/ai_car_ws/src/ai_car_description/build/ai_car_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /ai_car_ws/src/ai_car_description -DCMAKE_INSTALL_PREFIX=/ai_car_ws/src/ai_car_description/install/ai_car_description
+Invoked command in '/ai_car_ws/src/ai_car_description/build/ai_car_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /ai_car_ws/src/ai_car_description -DCMAKE_INSTALL_PREFIX=/ai_car_ws/src/ai_car_description/install/ai_car_description
+Invoking command in '/ai_car_ws/src/ai_car_description/build/ai_car_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ai_car_ws/src/ai_car_description/build/ai_car_description -- -j16 -l16
+Invoked command in '/ai_car_ws/src/ai_car_description/build/ai_car_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ai_car_ws/src/ai_car_description/build/ai_car_description -- -j16 -l16
+Invoking command in '/ai_car_ws/src/ai_car_description/build/ai_car_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ai_car_ws/src/ai_car_description/build/ai_car_description
+Invoked command in '/ai_car_ws/src/ai_car_description/build/ai_car_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ai_car_ws/src/ai_car_description/build/ai_car_description
